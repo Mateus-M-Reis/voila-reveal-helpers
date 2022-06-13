@@ -16,7 +16,7 @@ return_title_slide(
 )
 ```
 
-![](/home/mop/Códigos/voila-reveal-helpers/assets/Screenshot%20from%202022-06-12%2021-31-21.png)
+![](./assets/Screenshot%20from%202022-06-12%2021-31-21.png)
 
 as well for index slides:
 
@@ -32,7 +32,7 @@ return_index_slide(
     </ul>"""
 ```
 
-![](/home/mop/Códigos/voila-reveal-helpers/assets/Screenshot%20from%202022-06-12%2021-33-30.png)
+![slide_2](/assets/Screenshot%20from%202022-06-12%2021-33-30.png)
 
 From the [slides_templates]() file the are utilities to build slides with tree different layouts for now.  
 The first template is that of a slide with one title and one content:
@@ -53,7 +53,7 @@ plt.plot(df.T)
 return_slide_1('One Content Slide', fig)
 ```
 
-![](/home/mop/Códigos/voila-reveal-helpers/assets/Screenshot%20from%202022-06-12%2021-52-55.png)
+![](./assets/Screenshot%20from%202022-06-12%2021-52-55.png)
 
 You can also build a slide with two columns:
 
@@ -70,4 +70,4 @@ return_slide_11(
 )
 ```
 
-![](/home/mop/Códigos/voila-reveal-helpers/assets/Screenshot%20from%202022-06-12%2021-34-59.png)
+![](./assets/Screenshot%20from%202022-06-12%2021-34-59.png)
